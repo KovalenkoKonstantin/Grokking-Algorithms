@@ -21,3 +21,4 @@ This repository contains every image in Grokking Algorithms in high resolution. 
 - The examples in this repo are written in Python, Java, and C#.
 - Pull request are the quickest way to contribute to this repository.
 - This repo is for easy to read examples.
+![Без имени](https://books.google.ru/books/publisher/content?id=yzkzEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3Zm2e8hz7OfyUKkjGROHLPMgxa5g&w=1280)
