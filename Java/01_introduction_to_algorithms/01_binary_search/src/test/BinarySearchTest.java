@@ -1,4 +1,3 @@
-/*
 package test;
 
 import main.BinarySearch;
@@ -49,4 +48,3 @@ public class BinarySearchTest {
         Assert.assertEquals(-1, binarySearch.binarySearch(testList, 77));
     }
 }
-*/
