@@ -43,3 +43,5 @@ zig-cache
 atlassian-ide-plugin.xml
 __pycache__
 .vscode
+out/
+.gitignore
